@@ -35,7 +35,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
-  background-color: #fff;
+  background-color: #ffffff;
 }
 
 * {
@@ -46,6 +46,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin: 0px;
   padding: 0px;
 }
+
 
 ul, ol {
   list-style: none;
@@ -72,7 +73,7 @@ img {
   position: relative;
 }
 .home_bg {
-  background-image: url(../images/profile.jpg);
+  background-image: url(../images/main2.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -176,7 +177,7 @@ h2 {
 }
 
 .quotes {
-  background-image: url(../images/abg.jpg);
+  background-image: url(../images/main3_resized.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -214,7 +215,7 @@ h2 {
 }
 
 .works {
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 
 .col-work {
