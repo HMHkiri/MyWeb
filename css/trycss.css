@@ -3588,7 +3588,7 @@
 
     .col-left, .col-right {
       float: left;
-      width: 50%;
+      width:50%;
       padding: 0 15px;
     }
     .personal-info h3 {
@@ -3597,6 +3597,12 @@
       margin-bottom: 6px;
       text-transform: capitalize;
     }
+		.personal-info h1 {
+			font-size: 50px;
+			letter-spacing: 2px;
+			margin-bottom: 6px;
+			text-transform: capitalize;
+		}
 
     .personal-info p {
       color: #767676;
@@ -3797,4 +3803,32 @@
 			text-transform: uppercase;
 			letter-s
 			acing: 2px;
+		}
+
+		.systemtitle{
+			margin:auto;
+			display: block;
+			background-color: rgba(0, 0, 0, 0.075);
+		}
+
+		.systemtitle h1{
+			margin-top: 75px;
+			text-align: center;
+			font-size: 50px;
+		}
+		.systemtitle p{
+			text-align:center;
+			font-size:30px;
+		}
+		.tureresult{
+			margin:auto;
+			display:block:
+			background-color: rgba(0, 0, 0, 0.075);
+			padding:5% 20% 10% 20%;
+			margin:30px 10px;
+		}
+
+		.tureresult p{
+			text-align:center;
+			font-size:50px;
 		}
