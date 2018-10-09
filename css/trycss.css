@@ -1,4 +1,3 @@
-""Microsoft JhengHei""
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
@@ -38,7 +37,7 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
-""Microsoft JhengHei""
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -2155,7 +2154,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family:"""Microsoft JhengHei""";
+				font-family:"Microsoft JhengHei";
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -3520,7 +3519,7 @@
     h1, h2, h3, h4, h5, h6, p {
       margin: 0px;
       padding: 0px;
-			font-family:Microsoft JhengHei;, sans-serif;
+			font-family:"Microsoft JhengHei";, sans-serif;
     }
 
     ul, ol {
