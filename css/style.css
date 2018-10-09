@@ -329,3 +329,32 @@ footer {
   margin-right: 15px;
   font-family:"Microsoft JhengHei";, sans-serif;
 }
+
+.my_service {
+  padding: 100px 0;
+  background-color: #f9f9f9;
+}
+.service-content {
+  float: left;
+  width: 33.33333333%;
+  padding: 0 15px;
+}
+
+
+
+.service-content h3 {
+  font-size: 30px;
+  letter-spacing: 1px;
+  margin-top: 13px;
+  margin-bottom: 8px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.service-content p {
+  color: #767676;
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24px;
+  text-align:center;
+}
