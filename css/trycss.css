@@ -1624,7 +1624,7 @@
 	}
 
 	body, input, select, textarea {
-		font-family: "Poppins", sans-serif;
+		font-family:Microsoft JhengHei;
 		font-size: 1rem;
 		line-height: 1.65;
 	}
@@ -1677,7 +1677,7 @@
 		h1 a,  h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
 			text-decoration: none;
-			font-family: ‘cwTeXYen’, sans-serif;
+			font-family:Microsoft JhengHei;, sans-serif;
 		}
 
 
@@ -1719,7 +1719,7 @@
 	code {
 		border-radius: 2px;
 		border: solid 1px;
-		font-family: "Courier New", monospace;
+		font-family:Microsoft JhengHei;, monospace;
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -1727,7 +1727,7 @@
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family:Microsoft JhengHei;, monospace;
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
@@ -2155,7 +2155,7 @@
 			input[type="radio"] + label:before {
 				-moz-osx-font-smoothing: grayscale;
 				-webkit-font-smoothing: antialiased;
-				font-family: FontAwesome;
+				font-family:Microsoft JhengHei;
 				font-style: normal;
 				font-weight: normal;
 				text-transform: none !important;
@@ -3348,7 +3348,7 @@
 					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
-					font-family: FontAwesome;
+					font-family:Microsoft JhengHei;
 					font-style: normal;
 					font-weight: normal;
 					text-transform: none !important;
@@ -3520,7 +3520,7 @@
     h1, h2, h3, h4, h5, h6, p {
       margin: 0px;
       padding: 0px;
-			font-family: ‘cwTeXYen’, sans-serif;
+			font-family:Microsoft JhengHei;, sans-serif;
     }
 
     ul, ol {
